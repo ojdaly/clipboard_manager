@@ -1,0 +1,465 @@
+        with open("data.txt", "a") as data:
+            data.write(f"{website} | {email} | {password}\n")
+indow.after(2000, read_clipboard)
+website_entry.delete(0, END)
+label_str
+(row=row_num, column=0)
+(row=row_num, column=0)
+00, read_clipboard)
+00, read_clipboard)
+window.mainloop()
+label_str = Label(text=gather, font=(FONT_NAME, FONT_SIZE, "bold"))
+label_str = Label(text=gather, font=(FONT_NAME, FONT_SIZE, "bold"))
+ window.after(2000, read_clipboard)
+with open("clipboard.txt", "a") as data:
+with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:
+with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:
+with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:
+with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:
+with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wy
+862*%*jmy4Wy
+with open("clipboard.txt", "a") as data:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wy
+label_str
+label_str
+862*%*jmy4Wy
+label_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+label_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wylabel_str862*%*jmy4Wy
+862*%*jmy4Wy
+a:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wya:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:862*%*jmy4Wya:with open("clipboard.txt", "a") as data:
+862*%*jmy4Wy
+with open("clipboard.txt", "a") as data:
+862*%*jmy4Wy
+with open("clipboard.txt", "a") as data:
+862*%*jmy4Wy
+862*%*jmy4Wy
+scarjoedaly@gmail.com | a
+print(label_str)
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+print(type(label_str))
+scarjoedaly@gmail.com | a
+pen("clipboard.txt", "a") as data:
+my_button['text']
+my_button['text']
+00, read_clipboard)
+=gather, command=write_clipboard)
+=gather, command=write_clipboard)
+scarjoedaly@gmail.com | a
+t543554435
+button_list = []
+button_list = []
+abel(text=gather, font=(FONT_NAME, FONT_SIZE, "bold"))
+grid(row=row_num, column=0)
+button.cget('text')
+rd.txt", "a") as data:
+ write_clipboard(gather):
+    for b in button_list:
+        print(b.cget('text'))
+    for b in button_list:
+        print(b.cget('text'))
+window.after(2000, read_clipboard)
+ # label_str.grid(row=row_num, column=0)
+with open("clipboard.txt", "a") as data:
+ label_str = str(label_num)
+cget('text')
+command=lambda:on_click("A")
+from tkinter import ttk
+write_clipboard
+write_clipboard
+window.after(2000, read_clipboard)
+print(b.cget('text'))
+print(b.cget('text'))
+ # label_str = Label(text=gather, font=(FONT_NAME, FONT_SIZE, "bold"))
+label_str = str(label_num)
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+label_str = str(label_num)
+# label_str.grid(row=row_num, column=0)
+print(b.cget('text'))
+# print(type(label_str))
+label_str = str(label_num)
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+gather = window.clipboard_get()
+old_gather = gather
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+window.clipboard_append(gather)
+for b in button_list:
+with open("clipboard.txt", "a") as data:
+"8000: admin / SDRsrock1!
+22: bn / SDRsrock1!"
+with open("clipboard.txt", "a") as data:
+for b in button_list:
+for b in button_list:
+  return
+ window.after(2000, read_clipboard)
+lambda:write_clipboard(gather))
+  return
+for b in button_list:
+for b in button_list:
+ gather:
+return
+read_clipboard)
+ gather:
+for b in button_list:
+return
+return
+button_list.remove(b)
+with open("clipboard.txt", "a") as data:
+row_num += 1
+global label_num
+return
+row_num += 1
+return
+button_list.remove(b)
+with open("clipboard.txt", "a") as data:
+row_num += 1
+global label_num
+with open("clipboard.txt", "a") as data:
+return
+button_list.remove(b)
+with open("clipboard.txt", "a") as data:
+row_num += 1
+button_list.remove(b)
+global old_gather
+return
+22: bn / SDRsrock1!"
+read_clipboard)
+def write_clipboard(gather):
+global old_gather
+global label_num
+22: bn / SDRsrock1!"
+window.clipboard_append(gather)
+window.clipboard_append(gather)
+Exceptions
+window.clipboard_append(gather)
+Exceptions
+lambda:write_clipboard(gather))
+window.after(2000, read_clipboard)
+Exceptions
+lambda:write_clipboard(gather))
+json.dump(data, data_file, indent=4)
+Blue
+Blue
+Green
+Red
+Yellow
+Blue
+Red
+self.tk.call(('clipboard', 'get')
+10.35.40.221
+America/New_York
+admin / SDRsrock1!
+10.35.40.83
+SDRsrock1!
+10.35.40.83
+ping 10.35.40.221
+https://10.35.40.83:4343/login.html
+ip default-gateway
+ping 10.35.40.221
+https://admin.bn.internal/
+172.21.77.20
+https://10.35.40.83:4343/login.html
+VM (10.35.40.10)
+ArubaMC-VA_FB_0E_A6
+ 6.11
+appadmin
+VM (10.35.40.10)
+10.35.40.221
+admin / SDRsrock1!
+https://10.35.40.80/tips/tipsContent.action#tipsServerConfigDetails.action%3FcontextData%3D1
+EVAL231020181826
+-----BEGIN CLEARPASS PLATFORM LICENSE KEY-----
+H4sIAAAAAAACAwAAAv/9tMzuxLZD6bSlpbQVz1zVVM80Zb5lvgbpRTTH5j6FnS6wMSOtSCmGURdn
+wKUupSfjRwFdlnszDWQmin+sAH8jjZ0llglT63a1JAFQ2Z7JV/hOPjamlgw9d9orn8+M1LuBcwUW
+IfWZuYnsg/3vIEA6lB2KweOY5cC0YEyBC8bOk5aD8uzdaqEnv0c0sHmHNXjOPXNSS8oVCx2j6Kfy
+E/THK/1IGaAWrh5VUmyEilSheZD6ikxNpRHh6cbxFokf+PJylflcx3B2SW9dy3VolNX1OG/9/a5C
+hzt4JIvckNNymJWnuGEyugWHEVHzR7qRlkkxpW+omh9Ve+4jvDxoyMUz85mYZIlPvk4R2D6GDsJm
+vjapbv01dZRZ1W6q8xm+ZdwvevdwEt0mMFDe0WClT3nZVgLS0N6lxN9TR/jS2OLbya606/GX9lrE
+GYuMiXZsZDGmf4DyXkqUURa2tvOo13yPH0irJDOhS+qADebxe63+DzDxgveRm59M0MLhbTGZ1FG+
+zfjOzQ3hsj4q06wTpb43s/BeZpG3jDfmjl6rz7Afs5GgtouoS0iiU7VETZG5/5A1N4cGzJixq4VT
+iG+WmtogdM5ZLE3WZhNlMQj6SDaVGUJEx4NfSZW83chj/R7al7CfZCQ93PL3quhX7rSbzEtLeA2Q
+/6WUxjoDXExOi/V0hPsAAAD//w==
+-----END CLEARPASS PLATFORM LICENSE KEY-----
+-----BEGIN ACCESS LICENSE KEY-----
+H4sIAAAAAAACAwAAAv/9pucfESOHwSPwK6Bg6p24l8A+CBj1vXKJhtzOMaS5RhUvY67OZrz5a1rc
+ex0oZr0II6nvXMHbpo4+O3Daixe4rcBI0ySXMEt1lk/d3SY3N08ol11+wBe/BVf4dAsvObkBImVb
+NVPVwcYfydXv7Vii3neJ/mTRzHlijGfu0fVv9CQzIPbovt8jjFQIyKWF29tlT6OhqXSUKHRseqQp
+Aa1nVwKjStqzvl9nmPDBJvpke8Agv8Cqy4J5aXUuMGnOUAPFMnFGvNVUa6ZWjY4WNs9qHFnCL3I9
+IbykUxn77W7M13ItZrrq2aqRxAGN/QrDw6DxQ6waclRuYwCvwCzG5UlOVLuD3ko6dmVDfMupHt0K
+i73S3DpYosmGFALuzwedrpBxlwUloBFunnfKujfcJehCoTvdZB+zprYJq6YnjTtPBMCO1adEqzma
+FKF+BuVjvsZ/Qoq+m8mqyQYCRW0P8nppzw3WM/+y6lwdU+XTHN8sV7jJLtAneUROFPv5z7h759ER
+CKgz+ABvg2WnzTdEH9506ChrAZviBu1Ug3TnW8s6UHBdk7P9B/FCPfBpOYwmS4n5QMZAvIs8Fv23
+k3pQtQCU0/nnhwoMdgn9WFtuurjcb4hnzo9sj3KVt7LXUB35oxww6sagnZG83eU1Vjm00iwd0c4J
+dvlmZaackO2xTDkdqyoAAAD//w==
+-----END ACCESS LICENSE KEY-----
+https://10.35.40.221:4343/screens/switch/configuration.html#/controller?configpath=%2Fmm%2Fmynode&tab=general
+10.35.40.83
+EVAL231020182616
+ArubaMC-VA_FB_0E_A6
+Aruba Mobility Controller 8.11
+00:0C:29:FB:0E:A6
+ArubaMC-VA-US
+MCFFB0E9C-4TUxXuIv-26mbtlMb-NOJf+eGW-4hp8zRyd
+EVAL231020182058
+EVAL231020182745
+10.35.40.81
+Aruba AP1
+d0:15:a6:c1:02:c4
+ALE license for a single AP
+10.35.40.221
+ERROR: Command can be executed only on /mm
+show license-pool-profile
+license-pool-profile-root acr-feature-enable|pefng-feature-enable|rfp-feature-enable|webcc-feature-enable.
+NIAP Compliance – Enhanced Products
+The Enhanced Products shall be enhanced as needed to ensure they meet the latest NIAP approved Application Software Protection Profile.  Developer shall ensure that the Enhanced Products are evaluated and accredited by an approved CCTL as meeting such Accreditation Requirements. At the Kickoff Meeting, the parties shall discuss and agree on the details of the applicable Accreditation Requirements, the evaluation and accreditation process, the criteria for meeting such requirements, and other related matters, which Developer shall document in the Design Document and Accreditation Mapping Document.  
+Req ID# Feature Requirement Sprint
+8. Section 8: Checkpoint Deployment
+8.01 Overview The Enhanced Products shall be enhanced to include the
+Checkpoint Deployment Enhancement, which will enable
+detecting, characterizing, and localizing wireless emitters within
+vehicles in a fixed checkpoint setting. The Checkpoint
+Deployment Enhancement shall provide analytics, APIs, and
+integrations for situational awareness and response to the
+detection of wireless emitters. The specifics of the deployment
+shall be discussed and agreed to by the parties at TRMs (but no
+later than TRM #3) and documented in the Design Document.
+3
+
+8.02 Installation Deploy and test Ruggedized Sensor Arrays (either with the Bastille 3
+
+DocuSign Envelope ID: 7D569D5D-5E3D-4635-8B16-C5135FD5E7C0
+
+Sub Contract No. Bastille 01
+
+In-Q-Tel Proprietary -5-
+
+Enterprise and/or Bastille FlyAway Kit Ruggedized) and antennas
+(omni and directional) inside a checkpoint. A “checkpoint” shall be
+defined as a fixed point of entry where vehicle and personnel
+screening occurs. The specifics of the deployment shall be
+discussed and agreed to by the parties at TRMs (but no later than
+TRM #3) and documented in the Design Document.
+
+8.03 Cellular
+Detection
+
+Detect cellular activity within vehicles approaching the checkpoint
+within the time (specified in ID #8.05) and range (specified in ID
+#8.06). The error metric and the permissible error value shall be
+discussed and agreed to by the parties at TRMs (but no later than
+TRM #3) and documented in the Design Document.
+
+3
+
+8.04 RF Detection Detect RF (non-cellular protocol) activity within vehicles
+approaching a checkpoint within the time (specified in ID #8.05)
+and range (specified in ID #8.06). The error metric and the
+permissible error value shall be discussed and agreed to by the
+parties at TRMs (but no later than TRM #3) and documented in the
+Design Document.
+
+3
+
+8.05 Detection
+Timing
+
+Detection of cellular and other RF protocols must happen within
+10 seconds. The error metric and the permissible error value shall
+be discussed and agreed to by the parties at TRMs (but no later
+than TRM #3) and documented in the Design Document.
+
+3
+
+8.06 Location
+Accuracy
+
+Localization of cellular and other RF protocols must be sufficient
+for secondary screening, i.e. localize within better than 100 ft.
+radius of the vehicle (threshold). Localization sufficient for primary
+screening, i.e. localize to a single checkpoint lane, is desired
+(objective), with in-lane (along the direction of travel) spatial
+resolution of better than 100 ft (threshold) and preferably better
+than 20 ft. (objective), as discussed and agreed to by the parties
+at TRMs (but no later than TRM #3) and documented in the Design
+Document.
+-----BEGIN CLEARPASS PLATFORM LICENSE KEY-----
+H4sIAAAAAAACAwAAAv/9tMzuxLZD6bSlpbQVz1zVVM80Zb5lvgbpRTTH5j6FnS6wMSOtSCmGURdn
+wKUupSfjRwFdlnszDWQmin+sAH8jjZ0llglT63a1JAFQ2Z7JV/hOPjamlgw9d9orn8+M1LuBcwUW
+IfWZuYnsg/3vIEA6lB2KweOY5cC0YEyBC8bOk5aD8uzdaqEnv0c0sHmHNXjOPXNSS8oVCx2j6Kfy
+E/THK/1IGaAWrh5VUmyEilSheZD6ikxNpRHh6cbxFokf+PJylflcx3B2SW9dy3VolNX1OG/9/a5C
+hzt4JIvckNNymJWnuGEyugWHEVHzR7qRlkkxpW+omh9Ve+4jvDxoyMUz85mYZIlPvk4R2D6GDsJm
+vjapbv01dZRZ1W6q8xm+ZdwvevdwEt0mMFDe0WClT3nZVgLS0N6lxN9TR/jS2OLbya606/GX9lrE
+GYuMiXZsZDGmf4DyXkqUURa2tvOo13yPH0irJDOhS+qADebxe63+DzDxgveRm59M0MLhbTGZ1FG+
+zfjOzQ3hsj4q06wTpb43s/BeZpG3jDfmjl6rz7Afs5GgtouoS0iiU7VETZG5/5A1N4cGzJixq4VT
+iG+WmtogdM5ZLE3WZhNlMQj6SDaVGUJEx4NfSZW83chj/R7al7CfZCQ93PL3quhX7rSbzEtLeA2Q
+/6WUxjoDXExOi/V0hPsAAAD//w==
+-----END CLEARPASS PLATFORM LICENSE KEY-----
+Hello
+VM (10.35.40.10)
+10.35.40.221
+EVAL231020181826
+https://10.35.40.221:4343/screens/switch/configuration.html#/controller?configpath=%2Fmm%2Fmynode&tab=general
+ArubaMC-VA_FB_0E_A6
+MCFFB0E9C-4TUxXuIv-26mbtlMb-NOJf+eGW-4hp8zRyd
+license-pool-profile-root acr-feature-enable|pefng-feature-enable|rfp-feature-enable|webcc-feature-enable.
+Req ID# Feature Requirement Sprint
+8. Section 8: Checkpoint Deployment
+8.01 Overview The Enhanced Products shall be enhanced to include the
+Checkpoint Deployment Enhancement, which will enable
+detecting, characterizing, and localizing wireless emitters within
+vehicles in a fixed checkpoint setting. The Checkpoint
+Deployment Enhancement shall provide analytics, APIs, and
+integrations for situational awareness and response to the
+detection of wireless emitters. The specifics of the deployment
+shall be discussed and agreed to by the parties at TRMs (but no
+later than TRM #3) and documented in the Design Document.
+3
+
+8.02 Installation Deploy and test Ruggedized Sensor Arrays (either with the Bastille 3
+
+DocuSign Envelope ID: 7D569D5D-5E3D-4635-8B16-C5135FD5E7C0
+
+Sub Contract No. Bastille 01
+
+In-Q-Tel Proprietary -5-
+
+Enterprise and/or Bastille FlyAway Kit Ruggedized) and antennas
+(omni and directional) inside a checkpoint. A “checkpoint” shall be
+defined as a fixed point of entry where vehicle and personnel
+screening occurs. The specifics of the deployment shall be
+discussed and agreed to by the parties at TRMs (but no later than
+TRM #3) and documented in the Design Document.
+
+8.03 Cellular
+Detection
+
+Detect cellular activity within vehicles approaching the checkpoint
+within the time (specified in ID #8.05) and range (specified in ID
+#8.06). The error metric and the permissible error value shall be
+discussed and agreed to by the parties at TRMs (but no later than
+TRM #3) and documented in the Design Document.
+
+3
+
+8.04 RF Detection Detect RF (non-cellular protocol) activity within vehicles
+approaching a checkpoint within the time (specified in ID #8.05)
+and range (specified in ID #8.06). The error metric and the
+permissible error value shall be discussed and agreed to by the
+parties at TRMs (but no later than TRM #3) and documented in the
+Design Document.
+
+3
+
+8.05 Detection
+Timing
+
+Detection of cellular and other RF protocols must happen within
+10 seconds. The error metric and the permissible error value shall
+be discussed and agreed to by the parties at TRMs (but no later
+than TRM #3) and documented in the Design Document.
+
+3
+
+8.06 Location
+Accuracy
+
+Localization of cellular and other RF protocols must be sufficient
+for secondary screening, i.e. localize within better than 100 ft.
+radius of the vehicle (threshold). Localization sufficient for primary
+screening, i.e. localize to a single checkpoint lane, is desired
+(objective), with in-lane (along the direction of travel) spatial
+resolution of better than 100 ft (threshold) and preferably better
+than 20 ft. (objective), as discussed and agreed to by the parties
+at TRMs (but no later than TRM #3) and documented in the Design
+Document.
+In-Q-Tel Proprietary -5-
+button.text_value
+button.text_value
+widget._my_hidden_value = 42
+widget = tk.Frame(root, ...)
+widget._my_hidden_value = 42
+print(button.text_value)
+print(button.text_value)
+Similarly, is there anything in Python tkinter?
+textView.getTag()
+textView.setTag(value)
+None
+print(button.text_value)
+A
+ B
+C
+D
+ E
+F
+G 
+A
+ B
+C
+D
+ B
+A
+ B
+F
+A
+A
+FONT_NAME="arial"
+FONT_SIZE=16
+, font=(FONT_NAME, FONT_SIZE, "bold")
+str(row_num)
+str(row_num)
+button_list.append(button)
+button.text_value = gather
+button = Button(text="Copy", command=lambda:write_clipboard(gather))
+button_list.append(button)
+button = Button(text="Copy", command=lambda:write_clipboard(gather))
+str(row_num)
+l.config['text']
+gather:
+list.remove(l)
+gather:
+gather:
+remove(l)
+gather:
+remove(b)
+b.destroy()
+gather:
+remove(b)
+label['text']
+return
+for l in label_list:
+b.destroy()
+return
+label['text']
+b.destroy()
+for l in label_list:
