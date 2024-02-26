@@ -1,117 +1,81 @@
-from tkinter import *
-
-# Open window
-window = Tk()
-window.title("Clipboard Manager")
-window.minsize(width=200, height=100)
+import customtkinter
 
 FONT_NAME="arial"
 FONT_SIZE=16
 
-# old_gather = ""
-row_num = 0
-button_list = []
+root = customtkinter.CTk()
+root.title('Clipboard Manager')
+
+my_frame = customtkinter.CTkScrollableFrame(root, height=400, width=475)
+my_frame.grid()
+
+row = 0
+text_length = 50
 label_list = []
-delete_list = []
+copy_button_list = []
+delete_button_list = []
 text_list = []
 
 def read_clipboard():
-    # global old_gather
-    global label_num
-    global row_num
+    global row
+    global text_length
     try:
-        gather = window.clipboard_get()
+        gather = root.clipboard_get()
     except:
-        print("error")
-        gather = None
-    #If copied text wasn't just copied, and is less than a number of characters.
-    #if gather != old_gather and len(gather) <= 75:
+        gather = "Your next copy will show here."
     if gather not in text_list and len(gather) <= 75:
+        if len(gather) > text_length:
+            new_width = len(gather) + 630
+            my_frame.configure(width=new_width)
+            text_length = len(gather)
         text_list.append(gather)
-        print(text_list)
-        print(row_num)
-        # Print copied text in window.
-        label = str(row_num)
-        label = Label(text=gather, font=(FONT_NAME, FONT_SIZE, "bold"))
-        label.grid(row=row_num, column=0)
-        label_list.append(label)
-        # Create button to copy text.
-        button = str(row_num)
-        button = Button(text="Copy", command=lambda:write_clipboard(gather))
-        button.text_value = gather
-        button.grid(row=row_num, column=1)
-        button_list.append(button)
-        # Write to text file if desired.
-        # with open("clipboard.txt", "a") as data:
-        #     data.write(f"{gather}\n")
-        #
-        #Create delete button.
-        delete = str(row_num)
-        delete = Button(text="Delete", command=lambda: delete_command(gather))
-        delete.text_value = gather
-        delete.grid(row=row_num, column=2)
-        delete_list.append(delete)
-        row_num += 1
-    window.after(2000, read_clipboard)
+        label_create(gather, row)
+        copy_button_create(gather,row)
+        delete_button_create(gather, row)
+        row += 1
+    root.after(2000, read_clipboard)
 
-# Deletes text and both buttons.
-def delete_command(gather):
-    global button_list
-    global label_list
-    global delete_list
-    row_num_d = 0
-    button_list_d = button_list.copy()
-    for b in button_list:
-        if b.text_value == gather:
-            b.destroy()
-            button_list_d.remove(b)
-        else:
-            b.grid(row=row_num_d, column=1)
-            row_num_d += 1
-    button_list = button_list_d
-    row_num_d = 0
-    label_list_d = label_list.copy()
-    for l in label_list:
-        if l['text'] == gather:
-            l.destroy()
-            label_list_d.remove(l)
-        else:
-            l.grid(row=row_num_d, column=0)
-            row_num_d += 1
-    label_list = label_list_d
-    row_num_d = 0
-    delete_list_d = delete_list.copy()
-    for d in delete_list:
-        if d.text_value == gather:
-            d.destroy()
-            delete_list_d.remove(d)
-        else:
-            d.grid(row=row_num_d, column=2)
-            row_num_d += 1
-    delete_list = delete_list_d
-    # NEED TO REMOVE TEXT FROM TEXT LIST!!!!!!!
-    for t in text_list:
-        if t == gather:
-            text_list.remove(t)
-    delete_list = delete_list_d
+def label_create(gather, row):
+    label = customtkinter.CTkLabel(my_frame, text=gather, font=(FONT_NAME, FONT_SIZE, "bold"))
+    label.grid(row=row, column=0, pady=4)
+    label_list.append(label)
 
-# If you use the copy button, it removes text and buttons and places at bottom.
-def write_clipboard(gather):
-    window.clipboard_clear()
-    window.clipboard_append(gather)
-    for b in button_list:
-        if b.text_value == gather:
-            b.destroy()
-            button_list.remove(b)
-            for l in label_list:
-                if l['text'] == gather:
-                    l.destroy()
-                    label_list.remove(l)
-                    for d in delete_list:
-                        if d.text_value == gather:
-                            d.destroy()
-                            delete_list.remove(d)
-                            return
+def copy_button_create(gather, row):
+    copy_button = customtkinter.CTkButton(my_frame, text="copy", width=25, command=lambda: copy_button_push(gather))
+    copy_button.grid(row=row, column=1, padx=8)
+    copy_button.text_value = gather
+    copy_button_list.append(copy_button)
+
+def copy_button_push(gather):
+    global row
+    root.clipboard_clear()
+    root.clipboard_append(gather)
+    delete_button_push(gather)
+    label_create(gather, row)
+    copy_button_create(gather, row)
+    delete_button_create(gather, row)
+    row += 1
+
+def delete_button_create(gather, row):
+    delete_button = customtkinter.CTkButton(my_frame, text="delete", width=25, command=lambda: delete_button_push(gather))
+    delete_button.grid(row=row, column=2)
+    delete_button.text_value = gather
+    delete_button_list.append(delete_button)
+
+def delete_button_push(gather):
+    for i in label_list:
+        if i.cget("text") == gather:
+            label_list.remove(i)
+            i.destroy()
+    for i in copy_button_list:
+        if i.text_value == gather:
+            copy_button_list.remove(i)
+            i.destroy()
+    for i in delete_button_list:
+        if i.text_value == gather:
+            delete_button_list.remove(i)
+            i.destroy()
 
 read_clipboard()
-window.mainloop()
+
+root.mainloop()
