@@ -27,7 +27,7 @@ def read_clipboard():
         gather = root.clipboard_get()
     except:
         gather = "Your next copy will show here."
-    # If don't have text in clipboard and copied text not over 75 digits
+    # If you haven't already copied, and copied text not over 75 digits
     if gather not in text_list and len(gather) <= 75:
         # Will diden frame if necessary
         if len(gather) > text_length:
@@ -35,7 +35,7 @@ def read_clipboard():
             my_frame.configure(width=new_width)
             text_length = len(gather)
         text_list.append(gather)
-        #Create text and copy and delete buittons
+        #Create text and copy and delete buttons
         label_create(gather, row)
         copy_button_create(gather,row)
         delete_button_create(gather, row)
