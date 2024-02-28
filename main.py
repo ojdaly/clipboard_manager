@@ -28,10 +28,11 @@ def read_clipboard():
     except:
         gather = "Your next copy will show here."
     # If you haven't already copied, and copied text not over 75 digits
-    if gather not in text_list and len(gather) <= 75:
+    if gather not in text_list and len(gather) <= 100:
         # Will diden frame if necessary
         if len(gather) > text_length:
-            new_width = len(gather) + 630
+            print(len(gather))
+            new_width = len(gather) * 10
             my_frame.configure(width=new_width)
             text_length = len(gather)
         text_list.append(gather)
