@@ -29,7 +29,7 @@ def read_clipboard():
         gather = root.clipboard_get()
     except:
         gather = None
-    # If you haven't already copied, and copied text not over 75 digits
+    # If you haven't already copied, and copied text not over 100 digits
     if gather:
         if gather not in text_list and len(gather) <= 100:
             text_list.append(gather)
