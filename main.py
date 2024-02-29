@@ -1,4 +1,5 @@
 import customtkinter
+from CTkXYFrame import *
 
 # Text parameters
 FONT_NAME="arial"
@@ -9,8 +10,9 @@ root = customtkinter.CTk()
 root.title('Clipboard Manager')
 
 # Creates scrollable frame within window.
-my_frame = customtkinter.CTkScrollableFrame(root, height=400, width=475)
-my_frame.grid()
+# my_frame = customtkinter.CTkScrollableFrame(root)
+my_frame = CTkXYFrame(root)
+my_frame.place(x = 0, y = 0, relwidth = 1, relheight = 1)
 
 row = 0
 text_length = 50
@@ -26,21 +28,16 @@ def read_clipboard():
     try:
         gather = root.clipboard_get()
     except:
-        gather = "Your next copy will show here."
+        gather = None
     # If you haven't already copied, and copied text not over 75 digits
-    if gather not in text_list and len(gather) <= 100:
-        # Will diden frame if necessary
-        if len(gather) > text_length:
-            print(len(gather))
-            new_width = len(gather) * 10
-            my_frame.configure(width=new_width)
-            text_length = len(gather)
-        text_list.append(gather)
-        #Create text and copy and delete buttons
-        label_create(gather, row)
-        copy_button_create(gather,row)
-        delete_button_create(gather, row)
-        row += 1
+    if gather:
+        if gather not in text_list and len(gather) <= 100:
+            text_list.append(gather)
+            #Create text and copy and delete buttons
+            label_create(gather, row)
+            copy_button_create(gather,row)
+            delete_button_create(gather, row)
+            row += 1
     # Scans clipboard every 2 seconds
     root.after(2000, read_clipboard)
 
